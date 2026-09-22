@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://massote.com.br/sitemap.xml
+Sitemap: https://asjdecor-star.github.io/massote/sitemap.xml
